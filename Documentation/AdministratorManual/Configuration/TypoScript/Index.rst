@@ -199,7 +199,7 @@ archiveRestriction
 
          All news records with an archive date in the past are shown.
 
-         .. hint:: Records with no archive date aren't shown in any of the selected modes.
+         .. hint:: Records with no archive date are never shown in mode 'archived'.
 
 .. _tsTimeRestriction:
 
